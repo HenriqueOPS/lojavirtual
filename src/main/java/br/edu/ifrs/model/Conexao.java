@@ -15,8 +15,8 @@ import java.sql.SQLException;
  */
 public class Conexao {
 
-    private String usuario = "usuario";
-    private String senha = "senha";
+    private String usuario = "a02150183";
+    private String senha = "a1234";
     private String servidor = "oracle.canoas.ifrs.edu.br";
     private int porta = 1521;
 
